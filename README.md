@@ -1,4 +1,5 @@
 <h1 align="center">hey! hi! im shika 𖦹:･ﾟ</h1>
+![](mitsuaya.gif)
 <h3 align="center">creative, ui/ux, front-end developer from the philippines</h3>
 
 <h4 align="center"> 🌱 focused on React and Next </h4>
