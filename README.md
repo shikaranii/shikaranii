@@ -4,7 +4,7 @@
 <h4 align="center"> 🌱 focused on React and Next </h4>
 <h4 align="center"> 👩‍💻 currently coding for Atenews and SAMAHAN Systems Development</h4>
 
-![](https://github.com/shikaranii/mitsuaya.gif)
+![](https://github.com/shikaranii/shikaranii/mitsuaya.gif)
 
 <h4 align="center">Tech Stack:</h4>
 
