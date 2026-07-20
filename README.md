@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">creative, ui/ux, front-end developer from the philippines</h3>
 <h4 align="center"> 🌱 focused on React and Next </h4>
-<h4 align="center"> 👩‍💻 currently coding for Atenews and SAMAHAN Systems Development</h4>
+<h4 align="center"> 👩‍💻 currently coding n freelancing for funsies</h4>
 
 
 <h4 align="center">Tech Stack:</h4>
